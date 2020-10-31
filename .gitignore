@@ -8,3 +8,6 @@
 /captures
 .externalNativeBuild
 .cxx
+# Project exclude paths
+/app_java/build/
+/app_java/build/intermediates/javac/debug/classes/
